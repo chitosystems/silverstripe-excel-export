@@ -18,8 +18,8 @@
   ],
   "minimum-stability": "dev",
   "require": {
-    "php": ">=7.1",
-    "silverstripe/framework": "^4.0",
+    "php": ">=7.1 | ^8",
+    "silverstripe/framework": "^4.0 | ^5",
     "phpoffice/phpspreadsheet": "^1.11"
   },
   "extra": {
